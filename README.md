@@ -54,6 +54,8 @@ To investigate how agricultural performance varies across seasons and identify m
 
 The project follows the following data analysis workflow:
 
+```text
+
 Dataset Loading
       ↓
 Data Understanding
